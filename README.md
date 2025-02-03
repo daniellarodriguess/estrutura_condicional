@@ -27,7 +27,7 @@ Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do j
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
 seguir, calcule e mostre o valor da conta a pagar.
 
-![image](https://github.com/user-attachments/assets/f4ea7976-3ab2-47ff-9e14-077b02d153a0)
+![image](https://github.com/user-attachments/assets/00f46869-3420-4149-b1a0-182d3b631493)
 
 ## Sexto exercício - Problema "intervalos"
 
@@ -43,7 +43,7 @@ Se o ponto estiver na origem, escreva a mensagem “Origem”.
 
 Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a
 
-![image](https://github.com/user-attachments/assets/8630dffc-5ee7-44c9-81d9-4a1a6774ed03)
+![image](https://github.com/user-attachments/assets/069a4c06-3531-4daa-8a18-0f46313c4418)
 
 ## Oitavo exercício - Problema "lisarb"
 
@@ -54,7 +54,7 @@ A moeda deste país é o Rombus, cujo símbolo é o R$.
 Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e
 mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 
-![image](https://github.com/user-attachments/assets/b024eb2c-c9a7-4f94-911d-f4dbf2ad2ebc)
+![image](https://github.com/user-attachments/assets/a8fae316-4525-42a1-b1f1-fc2761e61bdb)
 
 Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de
 salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com duas casas decimais.
